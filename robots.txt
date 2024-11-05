@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obixuopu.github.io/OmW/sitemap_index.txt
+Sitemap: https://obixuopu.github.io/QKG/sitemap_index.txt
+Sitemap: https://obixuopu.github.io/YSW/sitemap_index.txt
+Sitemap: https://obixuopu.github.io/eHA/sitemap_index.txt
